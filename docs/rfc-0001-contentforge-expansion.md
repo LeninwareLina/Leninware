@@ -67,6 +67,6 @@ Physical outreach remains a foundational element of local socialist organization
 
 ---
 
-## 5. Relationship to Other RFCs
-* **Commonwealth Ingestion:** Structured data feeds from Commonwealth are detailed in [RFC-0002](RFC-0002-commonwealth-overview.md).
-* **Guiding Framework:** The philosophical alignment of these stages is governed by [RFC-0003](RFC-0003-web-and-gravity.md).
+## 5. Relationship to Other Documents
+* **Commonwealth Ingestion:** Structured data feeds from Commonwealth are detailed in [RFC-0002](file:///c:/dev/leninwareAI/contentforge/docs/rfc/rfc-0002-commonwealth-overview.md).
+* **Guiding Framework:** The philosophical alignment of these stages is governed by the monorepo root [PHILOSOPHY.md](file:///c:/dev/leninwareAI/PHILOSOPHY.md).
