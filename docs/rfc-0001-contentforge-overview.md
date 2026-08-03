@@ -1,4 +1,4 @@
-# RFC-0001: ContentForge Expansion
+# RFC-0001: ContentForge Overview
 ## Next Horizon (Levels 2-4)
 
 ---
