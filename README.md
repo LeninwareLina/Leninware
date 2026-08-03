@@ -8,7 +8,7 @@ This repository contains the design proposals and architectural overview for the
 * **[RFC-0000: Leninware Overview](docs/rfc-0000-leninware-overview.md)**
 * **[RFC-0001: ContentForge Expansion](docs/rfc-0001-contentforge-expansion.md)**
 * **[RFC-0002: Commonwealth Overview](docs/rfc-0002-commonwealth-overview.md)**
-* **[RFC-0004: Deployment and Trust Model](docs/rfc-0004-deployment-and-trust.md)**
+* **[RFC-0003: Deployment and Trust Model](docs/rfc-0003-deployment-and-trust.md)**
 
 ---
 

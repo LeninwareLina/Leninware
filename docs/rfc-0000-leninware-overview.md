@@ -72,4 +72,4 @@ For a complete breakdown of this ideological framework, refer to the root [PHILO
 
 ## 5. Deployment and Trust
 
-To ensure the safety of organizers under surveillance and prevent data enclosure, Leninware is designed with a decentralized, local-first threat model. For full details on self-hosting, data ownership, local inference support, and threat mitigations, see [RFC-0004: Deployment and Trust Model](file:///c:/dev/leninwareAI/contentforge/docs/rfc/rfc-0004-deployment-and-trust.md).
+To ensure the safety of organizers under surveillance and prevent data enclosure, Leninware is designed with a decentralized, local-first threat model. For full details on self-hosting, data ownership, local inference support, and threat mitigations, see [RFC-0003: Deployment and Trust Model](rfc-0003-deployment-and-trust.md).

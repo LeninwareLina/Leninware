@@ -1,4 +1,4 @@
-# RFC-0004: Deployment and Trust Model
+# RFC-0003: Deployment and Trust Model
 ## Data Ownership, Local Inference, and Threat Mitigation for Organizers
 
 ---
