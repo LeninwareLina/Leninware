@@ -16,6 +16,7 @@ Leninware is designed to operate on a **local-first, decentralized, and zero-tel
 * **Local Execution by Default:** The software is not delivered as a centralized Software-as-a-Service (SaaS). It runs on hardware owned and controlled directly by the organizing group.
 * **100% Data Ownership:** All inputs (topics, source text, media uploads, internal narratives), intermediate representations (transcripts, script drafts, visual prompts), and final media assets are stored locally on the operator’s disk. No third-party servers act as intermediaries or store copies of your data.
 * **Zero Telemetry and Tracking:** The codebase contains no analytics, reporting scripts, usage tracking, or automatic updater phone-homes. The system only reaches out to external APIs if explicitly configured to do so by the user.
+* **Training Data Sovereignty & Governance:** Any future mechanism that feeds node-generated outputs back into model training must preserve the guarantees above. Nodes do not act as passive data suppliers; they influence the training methodology. Training data remains under the control of the collective that produced it, and participation in any shared training loop is opt-in, transparent, and governed by the participating nodes. The specific protocol for weighting examples based on local filter provenance is deferred to a future RFC.
 
 ---
 
